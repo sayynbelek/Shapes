@@ -1,0 +1,10 @@
+G:\Shapes\Shapes\bin\Debug\Shapes.exe.config
+G:\Shapes\Shapes\bin\Debug\Shapes.exe
+G:\Shapes\Shapes\bin\Debug\Shapes.pdb
+G:\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+G:\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+G:\Shapes\Shapes\obj\Debug\Shapes.exe
+G:\Shapes\Shapes\obj\Debug\Shapes.pdb
+Z:\Shapes\Shapes\bin\Debug\Shapes.exe.config
+Z:\Shapes\Shapes\obj\Debug\Shapes.exe
+Z:\Shapes\Shapes\obj\Debug\Shapes.pdb
